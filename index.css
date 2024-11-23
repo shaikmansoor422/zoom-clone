@@ -8,77 +8,73 @@ body {
   padding: 0px;
   justify-content: center;
   gap: 4px;
-  width: 80%;
+  width: 85%;
   position: relative;
-  left: 9%;
-  right: 10%;
+  left:7.5%;
+
 }
-#harish{
-    position: relative;
-    border: green 3px solid;
-    padding: 25px 27px 30px 27px;
+#harish {
+  position: relative;
+  border: green 3px solid;
+  padding: 35px 27px 30px 27px;
 }
-#harish p{
-    position: absolute;
-    top: 80px;
-    left: 0.5px;
+#harish p {
+  position: absolute;
+  top: 85px;
+  left: 0.5px;
 }
-.dv>div {
-    position: relative;
+.dv > div {
+  position: relative;
   color: white;
   font-size: x-small;
   font-weight: 200;
   width: 80px;
-  height: 25px;
+  height: 35px;
   background-color: rgb(51, 51, 51);
-  padding: 30px;
+  padding: 40px 30px 30px 30px;
   text-align: center;
-
 }
-.dv p{
-    width: 60px;
-    position:absolute;
-    top: 70px;
-    left: 2px;
-    background-color: grey;
-    font-size: 7px;
-
+.dv p {
+  width: 60px;
+  position: absolute;
+  top: 90px;
+  left: 2px;
+  background-color: grey;
+  font-size: 7px;
 }
 
-svg{
-    height: 7px;
-    position: absolute;
-bottom: 1px;
-left: 0px;
-
+svg {
+  height: 7px;
+  position: absolute;
+  bottom: 1px;
+  left: 0px;
 }
 
-#footer
-{
-    display: flex;
-    justify-content: center;
-    background-color: rgb(27, 27, 26);
-    height: 35px;
-    position: sticky;
-    bottom: 3px;
-    width: 100%;
+#footer {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(27, 27, 26);
+  height: 35px;
+  position: sticky;
+  bottom: 3px;
+  width: 100%;
 }
- 
-.svg2{
-    border: rgb(139, 68, 10) solid;
-    height: 20px;
-    color: white;
-    position: relative;
-    margin: 6px;
-    color: white;
-    left: -33px;
+
+.svg2 {
+  border: rgb(139, 68, 10) solid;
+  height: 20px;
+  color: white;
+  position: relative;
+  margin: 6px;
+  color: white;
+  left: -40px;
 }
- #End{
-    color: white;
-    background-color: rgba(249, 19, 19, 0.849);
-    margin: 6px;
-    padding: 2px 6px 3px 6px;
-    position: relative;
-    right: -45px;
-    z-index: 1;
- }
+#End {
+  color: white;
+  background-color: rgba(249, 19, 19, 0.849);
+  margin: 6px;
+  padding: 2px 6px 3px 6px;
+  position: relative;
+  right: -35px;
+  z-index: 1;
+}
